@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.11a84b82.css",
-    "main.js": "/static/js/main.b7e96d02.js",
-    "static/media/getLocationIP.png": "/static/media/getLocationIP.e5f252b8ec229b2a7a6f.png",
-    "static/media/pizza-shop.png": "/static/media/pizza-shop.9ff5ffb2be594f0ff9da.png",
-    "static/media/portfolio.jpg": "/static/media/portfolio.f28c93ef829d46f662dd.jpg",
-    "index.html": "/index.html",
-    "main.11a84b82.css.map": "/static/css/main.11a84b82.css.map",
-    "main.b7e96d02.js.map": "/static/js/main.b7e96d02.js.map"
+    "main.css": "/pryshchenko/static/css/main.11a84b82.css",
+    "main.js": "/pryshchenko/static/js/main.c070de02.js",
+    "static/media/getLocationIP.png": "/pryshchenko/static/media/getLocationIP.e5f252b8ec229b2a7a6f.png",
+    "static/media/pizza-shop.png": "/pryshchenko/static/media/pizza-shop.9ff5ffb2be594f0ff9da.png",
+    "static/media/portfolio.jpg": "/pryshchenko/static/media/portfolio.f28c93ef829d46f662dd.jpg",
+    "index.html": "/pryshchenko/index.html",
+    "main.11a84b82.css.map": "/pryshchenko/static/css/main.11a84b82.css.map",
+    "main.c070de02.js.map": "/pryshchenko/static/js/main.c070de02.js.map"
   },
   "entrypoints": [
     "static/css/main.11a84b82.css",
-    "static/js/main.b7e96d02.js"
+    "static/js/main.c070de02.js"
   ]
 }
