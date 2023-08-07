@@ -1,5 +1,5 @@
 ### Hello there!
-- 💻 I’m currently Junior Frontend Developer
+- 💻 I’m Front-end Developer
 - 🇺🇦 Lives in Ukraine
 - 🌐 [My website](https://pryshchenko.github.io/pryshchenko/)
 ### My Pet Projects:
