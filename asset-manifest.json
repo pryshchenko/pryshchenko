@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/pryshchenko/static/css/main.b85ded3d.css",
-    "main.js": "/pryshchenko/static/js/main.0c0f1fc1.js",
+    "main.js": "/pryshchenko/static/js/main.97ae4571.js",
     "static/media/getLocationIP.png": "/pryshchenko/static/media/getLocationIP.e5f252b8ec229b2a7a6f.png",
     "static/media/pizza-shop.png": "/pryshchenko/static/media/pizza-shop.9ff5ffb2be594f0ff9da.png",
     "static/media/portfolio.jpg": "/pryshchenko/static/media/portfolio.f28c93ef829d46f662dd.jpg",
     "index.html": "/pryshchenko/index.html",
     "main.b85ded3d.css.map": "/pryshchenko/static/css/main.b85ded3d.css.map",
-    "main.0c0f1fc1.js.map": "/pryshchenko/static/js/main.0c0f1fc1.js.map"
+    "main.97ae4571.js.map": "/pryshchenko/static/js/main.97ae4571.js.map"
   },
   "entrypoints": [
     "static/css/main.b85ded3d.css",
-    "static/js/main.0c0f1fc1.js"
+    "static/js/main.97ae4571.js"
   ]
 }
