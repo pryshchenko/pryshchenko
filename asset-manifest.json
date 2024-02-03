@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/pryshchenko/static/css/main.f0c44e06.css",
-    "main.js": "/pryshchenko/static/js/main.7fe49e48.js",
+    "main.css": "/pryshchenko/static/css/main.e599e8d4.css",
+    "main.js": "/pryshchenko/static/js/main.b863d67b.js",
     "static/media/getLocationIP.png": "/pryshchenko/static/media/getLocationIP.e5f252b8ec229b2a7a6f.png",
     "static/media/pizza-shop.png": "/pryshchenko/static/media/pizza-shop.9ff5ffb2be594f0ff9da.png",
-    "static/media/portfolio.jpg": "/pryshchenko/static/media/portfolio.f28c93ef829d46f662dd.jpg",
+    "static/media/BookApp.js-OOP.png": "/pryshchenko/static/media/BookApp.js-OOP.f4de54a9472c182d3b0d.png",
+    "static/media/avatar.jpg": "/pryshchenko/static/media/avatar.f28c93ef829d46f662dd.jpg",
+    "static/media/Habbits-vanilla-js.png": "/pryshchenko/static/media/Habbits-vanilla-js.e8a0343d7d6ae88ec674.png",
+    "static/media/simple-react-journal.png": "/pryshchenko/static/media/simple-react-journal.fe56c611339b809d33bb.png",
     "index.html": "/pryshchenko/index.html",
-    "main.f0c44e06.css.map": "/pryshchenko/static/css/main.f0c44e06.css.map",
-    "main.7fe49e48.js.map": "/pryshchenko/static/js/main.7fe49e48.js.map"
+    "main.e599e8d4.css.map": "/pryshchenko/static/css/main.e599e8d4.css.map",
+    "main.b863d67b.js.map": "/pryshchenko/static/js/main.b863d67b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0c44e06.css",
-    "static/js/main.7fe49e48.js"
+    "static/css/main.e599e8d4.css",
+    "static/js/main.b863d67b.js"
   ]
 }
